@@ -19,3 +19,9 @@ Download ml-latest-small.zip dataset @ http://grouplens.org/datasets/movielens/
 4.	List all the Users who have rated the movies (Users who have rated at least one movie)
 5.	List of all the User with the max ,min ,average ratings they have given against any movie
 6.	List all the Movies with the max ,min, average ratings given by any user
+
+#### Solution:
+
+- Hive-HBase Integration
+- Spark (RDD, Dataframe, DataSet) solving individually for each category
+- Mapreduce

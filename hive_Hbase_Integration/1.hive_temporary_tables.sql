@@ -1,4 +1,5 @@
 -- Here we will create temporary table and load the data as part of it
+--Type all the queries as part of the hive terminal
 
 --Table-1
 

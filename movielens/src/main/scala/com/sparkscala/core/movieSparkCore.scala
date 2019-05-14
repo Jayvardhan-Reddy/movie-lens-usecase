@@ -76,7 +76,7 @@ object movieSparkCore extends App {
 
   println("All the User and the number of ratings ====================> " + user_numRatings.mkString)
 
-  // 3.	List all the Movie IDs which have been rated (Movie Id with at least one user rating it)
+  // 3.	List all the Movie IDs which have been rated (Movie Id with at least one user rating it) 
 
   val movieUser_Ratings = join_movieRating.map(ele => (ele._1, ele._2._2.rating)).countByValue().filter(ele => ele._2 != null)
 

@@ -9,7 +9,6 @@ Download ml-latest-small.zip dataset @ http://grouplens.org/datasets/movielens/
 - Hive
 - Hbase
 - Spark
-- MapReduce
 
 #### Usecases:
 
@@ -24,4 +23,3 @@ Download ml-latest-small.zip dataset @ http://grouplens.org/datasets/movielens/
 
 - Hive-HBase Integration
 - Spark (RDD, Dataframe, DataSet) solving individually for each category
-- Mapreduce
